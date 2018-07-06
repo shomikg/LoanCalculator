@@ -1,5 +1,6 @@
 # Loan Calculator
 
+Live on - https://shomikg.github.io/LoanCalculator/
 A small web application developed to calculate minimum monthly payments in rupees to meet specified interest rate and number of repayment years.
 
 ![Web application with form values inputted](screenshot.JPG)
