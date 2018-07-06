@@ -2,7 +2,7 @@
 
 A small web application developed to calculate minimum monthly payments in rupees to meet specified interest rate and number of repayment years.
 
-![Web application with form values inputted](screenshot.jpg)
+![Web application with form values inputted](screenshot.JPG)
 
 ## Technologies Used in this repo
 
@@ -16,7 +16,7 @@ A small web application developed to calculate minimum monthly payments in rupee
 
 2. Form validation checks user input by using JavaScript's isFinite() method. If, during calculation, an issue arises with any intermediate value, using isFinite() verifies this scenario and displays an error message at the top.
 
-   ![Error message appears if any of the form inputs are left blank](screenshot2.jpg)
+   ![Error message appears if any of the form inputs are left blank](screenshot2.JPG)
 
 ## Thoughts
 
